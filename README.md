@@ -11,6 +11,9 @@
 
 <!-- 내용 부분 -->
 ## ✨ Tech Stack ✨
+<!--
+![Pochomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pochomo&show_icons=true&theme=radical)
+-->
 <div align="center">
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
   <img src="https://img.shields.io/badge/ros-1572B6.svg?style=for-the-badge&logo=ros&logoColor=22314" />&nbsp
